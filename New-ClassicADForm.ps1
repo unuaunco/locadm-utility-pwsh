@@ -4,7 +4,7 @@
 
 .GUID 60dfe24d-fc3e-4ac3-adc8-be00448e4159
 
-.AUTHOR pardusurbanus@gmail.com
+.AUTHOR pardusurbanus@protonmail.com
 
 .COMPANYNAME 
 
